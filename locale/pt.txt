@@ -1,0 +1,105 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_BB736641_AE99_6EFF_41D9_E62FB2D632BC.source = https://mgtour360.com.br/
+
+## Media
+
+### Audio
+audiores_B31C817C_AE88_A285_41B6_A43CBACDCF29.url = media/audio_B400E1B5_AE88_E586_41CF_DD3B7C00A61B_pt.mp3
+
+### Audio Subtitles
+
+### Subtitle
+panorama_BCDA2469_A043_A8AB_41DC_9779FC2B4283.subtitle = corredor 
+
+### Title
+panorama_BDFB16CC_A046_A9E9_41C4_71BDE38872C3.label = Acesso a Quadra
+panorama_BDFBAE33_A046_F8BF_41D0_CD853FE4EA8E.label = Acesso as Quadras de Areia
+panorama_BDC458D8_A047_59E9_41E1_C9E047B18F3F.label = Balanço da Árvore
+panorama_BDC40713_A047_A87F_41C1_32387D684765.label = Balanço da Árvore
+panorama_BDC535FB_A047_EBAF_41D4_CC355BC4C3D0.label = Cozinha Experimental
+panorama_BCDA2469_A043_A8AB_41DC_9779FC2B4283.label = Entrada
+panorama_BDF810CA_A043_A9E8_41DA_67663A28A9E2.label = Entrada Principal
+panorama_BDC44BEF_A047_DFA8_41D2_1A6574A7FA96.label = Espaço areia
+panorama_BDC5991D_A047_F86B_41D7_6A7C8EE620AA.label = Espaço areia
+panorama_BDFB1091_A046_E87B_41D2_D51DD3265E2D.label = Estacionamento
+panorama_BDFB9772_A046_E8B8_41DA_2AA387AB61CB.label = Estacionamento
+panorama_BDF087AA_A042_F7A8_41CA_707857A80CA3.label = Fachada
+panorama_BDFF26C4_A043_E9D9_41DE_F32454459822.label = Missão, visão e valores
+panorama_BDFCDF9A_A041_5869_41C5_AA6AB48F1833.label = Parquinho de Madeira
+panorama_BDFB53B4_A046_AFB8_41E0_A9820A67D6ED.label = Quadra Esportiva
+panorama_BDFB3D46_A046_B8D9_41D7_C17FA4798CE6.label = Quadra Esportiva
+panorama_BDFB6A4D_A046_D8EB_41DF_2C22B2467DF5.label = Quadra Esportiva
+panorama_BDFB8530_A046_E8B9_41D8_786065725DC1.label = Quadra de Areia 1
+panorama_BDFB8C53_A046_D8FF_41C5_87FC64E554D3.label = Quadra de Areia 2
+panorama_BDFBB39B_A046_A86F_41A9_152B9ED99CC7.label = Quadra de Areia 3
+panorama_BDC4423E_A046_A8A9_41E4_1CFF99F5C1C2.label = Quiosque
+panorama_BDC41B33_A046_B8BF_41E3_70171DB23DC4.label = Quiosque
+panorama_BDC46286_A047_6858_41BF_7BF58B81033D.label = Quiosque
+panorama_BDFB9420_A047_6859_41D7_7280A9052912.label = Quiosque
+panorama_BDC46584_A047_A859_41CC_040D501D41C9.label = Redário
+panorama_BDFEC476_A041_A8B9_41D2_9FFEF4076DF6.label = SALA 4
+panorama_BDFE6E74_A041_58B8_41E3_8C5E7027A817.label = SALA 4
+panorama_BDFE6818_A041_5869_41DC_9DEA82C2C816.label = SALA 4
+panorama_BDF866A6_A043_A859_41DA_B5E43A69BBCA.label = SESC
+panorama_BDF93CF2_A043_59B9_41E1_D04AAB3B6DF2.label = SESC
+panorama_BDF9848C_A043_6869_41CB_C438E8506E11.label = SESC
+panorama_BDFF27FA_A041_57A8_41E0_F29CCAA9D376.label = SESC
+panorama_BDFF84D9_A041_69EB_41E3_BB6D1EE9B90D.label = SESC
+panorama_BDF8C2D2_A042_A9F9_41C3_E9ECFDF553DA.label = SESC
+panorama_BDFF39EB_A042_BBAF_41D4_BA6F17B6A784.label = SESC
+panorama_BDFF8E78_A041_58A9_41CE_8B930090E393.label = SESC
+panorama_BDFD18E6_A041_59D9_41E1_11EB0E49F1F0.label = SESC
+panorama_BDFDBF94_A041_5879_41A1_60D6DA8E9FC4.label = SESC
+panorama_BDFEBAA2_A041_B858_41C7_D538AB918C34.label = SESC
+panorama_BDFE0151_A041_A8FB_41D4_8A9D2A50A82C.label = SESC
+panorama_BDFEF7FD_A041_D7AB_4196_7F2FBA004F15.label = SESC
+panorama_BDFE7EAA_A041_D9A9_41C2_F044150A78CA.label = SESC
+panorama_BDFD3299_A041_686B_41C0_55C6A60BD0F0.label = SESC
+panorama_BDFD70D8_A042_E9E9_41B3_2741F6B7F6A0.label = SESC
+panorama_BDFD45F1_A041_6BBB_41E2_5A693B954E83.label = SESC
+panorama_BDFD8860_A041_D8D9_41D5_7B7717189F0C.label = SESC
+panorama_BDFDD110_A041_A878_41D7_D2D4692C234E.label = SESC
+panorama_BDC34149_A041_A8EB_41CA_3DC3660BE9C5.label = SESC
+panorama_BDFD8C5F_A041_78E8_41DE_EA6C9F7ECB6C.label = SESC externo
+panorama_BDF9D36E_A043_A8A9_41C3_539C0636AD39.label = Sala 1
+panorama_BDF99923_A043_5858_4172_C0E74FFF51FA.label = Sala 1
+panorama_BDF9DD3A_A043_B8A9_41C6_1760875E710D.label = Sala 1
+panorama_BDFF34BA_A042_E9A8_41E3_2867F4B06AD8.label = Sala 2
+panorama_BDFF5798_A042_A869_41A3_E064E93921F2.label = Sala 2
+panorama_BDFF2E9A_A042_D869_41D3_1FA5F0066D24.label = Sala 2
+panorama_BDFFF1BF_A042_ABA7_41D0_82892099DC62.label = Sala 3
+panorama_BDFDD2F4_A042_A9B9_41DC_133194E69C58.label = Sala 3
+panorama_BDFF2B47_A042_B8D8_41CE_DEDF2846D3E9.label = Sala 3
+panorama_BDF9BAD8_A043_79E8_41D9_8DAE14CCB491.label = Sala de Leitura
+panorama_BDF98714_A043_6879_41E0_4AE562ABE248.label = Sala de Leitura
+panorama_BDF960D6_A043_69F8_41E3_3ED0101F9082.label = Sala de Leitura
+panorama_BDFFA234_A041_68B9_41E2_7F5D899DBA00.label = Sala de Orientação Pedagógica
+panorama_BDFE6B9C_A041_7868_41BE_2F0F2270968B.label = Sala de Orientação Pedagógica
+panorama_BDFDBB96_A041_F879_41DD_DF31A9145675.label = Sala dos Professores
+panorama_BDFE454D_A041_E8E8_41D2_8E696BB27F68.label = Sala dos Professores
+panorama_BDFE4204_A041_E859_41E2_AF273010CF30.label = Sala dos Professores
+panorama_BDF874B2_A043_E9B9_41CB_08AD350C8A8C.label = Secretária Escolar
+panorama_BDF82B00_A043_D859_41CD_F5606ACA0BCC.label = Secretária Escolar
+panorama_BDF9CEDD_A043_59E8_41DA_2F48C28E39FA.label = Supervisão/ Direção
+panorama_BDF47C55_A042_D8FB_41D3_027662C0BDCB.label = Vista Aérea
+panorama_BD98B5C1_A042_ABDB_41A6_F532243589E7.label = Vista Aérea  - quadra de Areia
+panorama_BDF0DEA5_A042_D858_41D1_50192E251CC4.label = Vista Aérea - quadra de areia
+panorama_BDF0D2B0_A042_E9B9_41E0_C3D25BA01330.label = Vista Aérea - quadra de areia
+panorama_BDF17A5E_A042_B8E9_41E1_A64E047A2784.label = Vista Aérea - quadra de areia
+
+## Right Click Menu
+
+### Text
+menuItem_B7DDBE49_AE98_9E8F_41C1_B42B15F860F5.label = BY MG  TOUR 360 GRAUS 
+
+## Tour
+
+### Description
+tour.description = Tour virtual 360°
+
+### Title
+tour.name = Sesc Primavera Gurupi

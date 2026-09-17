@@ -1,0 +1,670 @@
+{
+  "version": "4.3.1-primavera-gurupi",
+  "brand": {
+    "systemName": "SISTEMA FECOMÉRCIO",
+    "tourName": "Sesc Primavera - Gurupi, Tocantins - TOUR 360°",
+    "unitName": "Sesc Primavera · Gurupi",
+    "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
+    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
+    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "colors": {
+      "blue": "#004C99",
+      "blueDark": "#003865",
+      "blueLight": "#0B78BF",
+      "yellow": "#F6BE00",
+      "gray": "#747678",
+      "white": "#FFFFFF"
+    }
+  },
+  "homeIndex": 2,
+  "intro": {
+    "eyebrow": "360° · VISITA VIRTUAL",
+    "title": "Explore do seu jeito.",
+    "description": "Um passeio imersivo pelo Sesc Primavera em Gurupi. Escolha como navegar e descubra todos os ambientes.",
+    "background": "media/panorama_BDF087AA_A042_F7A8_41CA_707857A80CA3_hd_t.jpg",
+    "desktopGuide": "skin-fecomercio/assets/mouse-desktop.apng.png",
+    "mobileGuide": "skin-fecomercio/assets/gestos-mobile.apng.png"
+  },
+  "map": {
+    "title": "Localização · Sesc Parque Primavera",
+    "embedUrl": "https://www.google.com/maps?q=Sesc%20Parque%20Primavera%2C%20Gurupi%20-%20TO&output=embed"
+  },
+  "contact": {
+    "phoneLabel": "(63) 3301-2126",
+    "phoneUrl": "tel:+556333012126",
+    "website": "https://www.sescto.com.br/"
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/sesctocantins/",
+      "accent": "#E1306C"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/sescto",
+      "accent": "#1877F2"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@SESCTO",
+      "accent": "#FF0000"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/sesctocantins/?originalSubdomain=br",
+      "accent": "#0A66C2"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/SescTO",
+      "accent": "#111111"
+    }
+  ],
+  "groups": [
+    {
+      "id": "geral",
+      "number": "01",
+      "short": "Visão geral",
+      "title": "Conheça a Unidade",
+      "eyebrow": "Sesc Primavera · Gurupi",
+      "description": "Comece pelas vistas aéreas e conheça a estrutura da unidade.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
+        {
+          "label": "Vista aérea geral",
+          "index": 0
+        },
+        {
+          "label": "Fachada",
+          "index": 2
+        },
+        {
+          "label": "Complexo esportivo",
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "entrada",
+      "number": "02",
+      "short": "Entrada",
+      "title": "Entrada & Atendimento",
+      "eyebrow": "Bem-vindo ao Sesc Tocantins",
+      "description": "Acesse a entrada principal, a secretaria e os espaços institucionais.",
+      "accent": "#12AFC2",
+      "surface": "#DDFBFC",
+      "destinations": [
+        {
+          "label": "Entrada",
+          "index": 6
+        },
+        {
+          "label": "Entrada principal",
+          "index": 10
+        },
+        {
+          "label": "Secretaria Escolar",
+          "index": 8
+        },
+        {
+          "label": "Missão, visão e valores",
+          "index": 7
+        },
+        {
+          "label": "Estacionamento",
+          "index": 58
+        }
+      ]
+    },
+    {
+      "id": "escola",
+      "number": "03",
+      "short": "Escola",
+      "title": "Escola & Aprendizagem",
+      "eyebrow": "Educação que transforma",
+      "description": "Percorra salas, leitura, orientação pedagógica e áreas de apoio escolar.",
+      "accent": "#E4B400",
+      "surface": "#FFF8C7",
+      "destinations": [
+        {
+          "label": "Sala 1",
+          "index": 12
+        },
+        {
+          "label": "Sala de Leitura",
+          "index": 17
+        },
+        {
+          "label": "Sala 2",
+          "index": 23
+        },
+        {
+          "label": "Sala 3",
+          "index": 27
+        },
+        {
+          "label": "Sala 4",
+          "index": 35
+        },
+        {
+          "label": "Sala dos Professores",
+          "index": 42
+        }
+      ]
+    },
+    {
+      "id": "esporte",
+      "number": "04",
+      "short": "Esporte",
+      "title": "Esporte & Lazer",
+      "eyebrow": "Movimento e bem-estar",
+      "description": "Conheça a quadra esportiva, as quadras de areia e os acessos externos.",
+      "accent": "#49A942",
+      "surface": "#E3F5DE",
+      "destinations": [
+        {
+          "label": "Área externa",
+          "index": 50
+        },
+        {
+          "label": "Acesso à quadra",
+          "index": 54
+        },
+        {
+          "label": "Quadra esportiva",
+          "index": 55
+        },
+        {
+          "label": "Quadras de areia",
+          "index": 60
+        }
+      ]
+    },
+    {
+      "id": "convivencia",
+      "number": "05",
+      "short": "Convivência",
+      "title": "Convivência & Apoio",
+      "eyebrow": "Integração e experiências",
+      "description": "Explore parquinho, quiosques, redário, jardins e cozinha experimental.",
+      "accent": "#F08A19",
+      "surface": "#FFF0D8",
+      "destinations": [
+        {
+          "label": "Parquinho de madeira",
+          "index": 53
+        },
+        {
+          "label": "Quiosques",
+          "index": 64
+        },
+        {
+          "label": "Balanço da árvore",
+          "index": 68
+        },
+        {
+          "label": "Redário",
+          "index": 71
+        },
+        {
+          "label": "Cozinha experimental",
+          "index": 74
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "index": 0,
+      "name": "Vista aérea geral",
+      "group": "geral",
+      "thumb": "media/panorama_BDF47C55_A042_D8FB_41D3_027662C0BDCB_t.webp"
+    },
+    {
+      "index": 1,
+      "name": "Vista aérea · Quadras de areia",
+      "group": "geral",
+      "thumb": "media/panorama_BD98B5C1_A042_ABDB_41A6_F532243589E7_t.webp"
+    },
+    {
+      "index": 2,
+      "name": "Fachada",
+      "group": "geral",
+      "thumb": "media/panorama_BDF087AA_A042_F7A8_41CA_707857A80CA3_t.webp"
+    },
+    {
+      "index": 3,
+      "name": "Vista aérea · Quadras 01",
+      "group": "geral",
+      "thumb": "media/panorama_BDF0D2B0_A042_E9B9_41E0_C3D25BA01330_t.webp"
+    },
+    {
+      "index": 4,
+      "name": "Vista aérea · Quadras 02",
+      "group": "geral",
+      "thumb": "media/panorama_BDF0DEA5_A042_D858_41D1_50192E251CC4_t.webp"
+    },
+    {
+      "index": 5,
+      "name": "Vista aérea · Complexo esportivo",
+      "group": "geral",
+      "thumb": "media/panorama_BDF17A5E_A042_B8E9_41E1_A64E047A2784_t.webp"
+    },
+    {
+      "index": 6,
+      "name": "Entrada",
+      "group": "entrada",
+      "thumb": "media/panorama_BCDA2469_A043_A8AB_41DC_9779FC2B4283_t.webp"
+    },
+    {
+      "index": 7,
+      "name": "Missão, visão e valores",
+      "group": "entrada",
+      "thumb": "media/panorama_BDFF26C4_A043_E9D9_41DE_F32454459822_t.webp"
+    },
+    {
+      "index": 8,
+      "name": "Secretaria Escolar 01",
+      "group": "entrada",
+      "thumb": "media/panorama_BDF874B2_A043_E9B9_41CB_08AD350C8A8C_t.webp"
+    },
+    {
+      "index": 9,
+      "name": "Secretaria Escolar 02",
+      "group": "entrada",
+      "thumb": "media/panorama_BDF82B00_A043_D859_41CD_F5606ACA0BCC_t.webp"
+    },
+    {
+      "index": 10,
+      "name": "Entrada principal",
+      "group": "entrada",
+      "thumb": "media/panorama_BDF810CA_A043_A9E8_41DA_67663A28A9E2_t.webp"
+    },
+    {
+      "index": 11,
+      "name": "Hall principal",
+      "group": "entrada",
+      "thumb": "media/panorama_BDF866A6_A043_A859_41DA_B5E43A69BBCA_t.webp"
+    },
+    {
+      "index": 12,
+      "name": "Sala 1 · Vista A",
+      "group": "escola",
+      "thumb": "media/panorama_BDF9DD3A_A043_B8A9_41C6_1760875E710D_t.webp"
+    },
+    {
+      "index": 13,
+      "name": "Sala 1 · Vista B",
+      "group": "escola",
+      "thumb": "media/panorama_BDF9D36E_A043_A8A9_41C3_539C0636AD39_t.webp"
+    },
+    {
+      "index": 14,
+      "name": "Sala 1 · Vista C",
+      "group": "escola",
+      "thumb": "media/panorama_BDF99923_A043_5858_4172_C0E74FFF51FA_t.webp"
+    },
+    {
+      "index": 15,
+      "name": "Supervisão e Direção",
+      "group": "escola",
+      "thumb": "media/panorama_BDF9CEDD_A043_59E8_41DA_2F48C28E39FA_t.webp"
+    },
+    {
+      "index": 16,
+      "name": "Circulação escolar 01",
+      "group": "escola",
+      "thumb": "media/panorama_BDF9848C_A043_6869_41CB_C438E8506E11_t.webp"
+    },
+    {
+      "index": 17,
+      "name": "Sala de Leitura · Entrada",
+      "group": "escola",
+      "thumb": "media/panorama_BDF9BAD8_A043_79E8_41D9_8DAE14CCB491_t.webp"
+    },
+    {
+      "index": 18,
+      "name": "Sala de Leitura · Vista A",
+      "group": "escola",
+      "thumb": "media/panorama_BDF960D6_A043_69F8_41E3_3ED0101F9082_t.webp"
+    },
+    {
+      "index": 19,
+      "name": "Sala de Leitura · Vista B",
+      "group": "escola",
+      "thumb": "media/panorama_BDF98714_A043_6879_41E0_4AE562ABE248_t.webp"
+    },
+    {
+      "index": 20,
+      "name": "Circulação escolar 02",
+      "group": "escola",
+      "thumb": "media/panorama_BDF93CF2_A043_59B9_41E1_D04AAB3B6DF2_t.webp"
+    },
+    {
+      "index": 21,
+      "name": "Exposição pedagógica 01",
+      "group": "escola",
+      "thumb": "media/panorama_BDF8C2D2_A042_A9F9_41C3_E9ECFDF553DA_t.webp"
+    },
+    {
+      "index": 22,
+      "name": "Exposição pedagógica 02",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF39EB_A042_BBAF_41D4_BA6F17B6A784_t.webp"
+    },
+    {
+      "index": 23,
+      "name": "Sala 2 · Entrada",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF5798_A042_A869_41A3_E064E93921F2_t.webp"
+    },
+    {
+      "index": 24,
+      "name": "Sala 2 · Vista A",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF2E9A_A042_D869_41D3_1FA5F0066D24_t.webp"
+    },
+    {
+      "index": 25,
+      "name": "Sala 2 · Vista B",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF34BA_A042_E9A8_41E3_2867F4B06AD8_t.webp"
+    },
+    {
+      "index": 26,
+      "name": "Circulação escolar 03",
+      "group": "escola",
+      "thumb": "media/panorama_BDFD70D8_A042_E9E9_41B3_2741F6B7F6A0_t.webp"
+    },
+    {
+      "index": 27,
+      "name": "Sala 3 · Entrada",
+      "group": "escola",
+      "thumb": "media/panorama_BDFDD2F4_A042_A9B9_41DC_133194E69C58_t.webp"
+    },
+    {
+      "index": 28,
+      "name": "Sala 3 · Vista A",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF2B47_A042_B8D8_41CE_DEDF2846D3E9_t.webp"
+    },
+    {
+      "index": 29,
+      "name": "Sala 3 · Vista B",
+      "group": "escola",
+      "thumb": "media/panorama_BDFFF1BF_A042_ABA7_41D0_82892099DC62_t.webp"
+    },
+    {
+      "index": 30,
+      "name": "Exposição pedagógica 03",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF27FA_A041_57A8_41E0_F29CCAA9D376_t.webp"
+    },
+    {
+      "index": 31,
+      "name": "Exposição pedagógica 04",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF8E78_A041_58A9_41CE_8B930090E393_t.webp"
+    },
+    {
+      "index": 32,
+      "name": "Circulação escolar 04",
+      "group": "escola",
+      "thumb": "media/panorama_BDFF84D9_A041_69EB_41E3_BB6D1EE9B90D_t.webp"
+    },
+    {
+      "index": 33,
+      "name": "Orientação Pedagógica · Entrada",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE6B9C_A041_7868_41BE_2F0F2270968B_t.webp"
+    },
+    {
+      "index": 34,
+      "name": "Orientação Pedagógica · Interior",
+      "group": "escola",
+      "thumb": "media/panorama_BDFFA234_A041_68B9_41E2_7F5D899DBA00_t.webp"
+    },
+    {
+      "index": 35,
+      "name": "Sala 4 · Entrada",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE6818_A041_5869_41DC_9DEA82C2C816_t.webp"
+    },
+    {
+      "index": 36,
+      "name": "Sala 4 · Vista A",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE6E74_A041_58B8_41E3_8C5E7027A817_t.webp"
+    },
+    {
+      "index": 37,
+      "name": "Sala 4 · Vista B",
+      "group": "escola",
+      "thumb": "media/panorama_BDFEC476_A041_A8B9_41D2_9FFEF4076DF6_t.webp"
+    },
+    {
+      "index": 38,
+      "name": "Exposição pedagógica 05",
+      "group": "escola",
+      "thumb": "media/panorama_BDFEBAA2_A041_B858_41C7_D538AB918C34_t.webp"
+    },
+    {
+      "index": 39,
+      "name": "Exposição pedagógica 06",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE0151_A041_A8FB_41D4_8A9D2A50A82C_t.webp"
+    },
+    {
+      "index": 40,
+      "name": "Exposição pedagógica 07",
+      "group": "escola",
+      "thumb": "media/panorama_BDFEF7FD_A041_D7AB_4196_7F2FBA004F15_t.webp"
+    },
+    {
+      "index": 41,
+      "name": "Circulação escolar 05",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE7EAA_A041_D9A9_41C2_F044150A78CA_t.webp"
+    },
+    {
+      "index": 42,
+      "name": "Sala dos Professores · Entrada",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE454D_A041_E8E8_41D2_8E696BB27F68_t.webp"
+    },
+    {
+      "index": 43,
+      "name": "Sala dos Professores · Vista A",
+      "group": "escola",
+      "thumb": "media/panorama_BDFDBB96_A041_F879_41DD_DF31A9145675_t.webp"
+    },
+    {
+      "index": 44,
+      "name": "Sala dos Professores · Vista B",
+      "group": "escola",
+      "thumb": "media/panorama_BDFE4204_A041_E859_41E2_AF273010CF30_t.webp"
+    },
+    {
+      "index": 45,
+      "name": "Galeria escolar 01",
+      "group": "escola",
+      "thumb": "media/panorama_BDFD8860_A041_D8D9_41D5_7B7717189F0C_t.webp"
+    },
+    {
+      "index": 46,
+      "name": "Galeria escolar 02",
+      "group": "escola",
+      "thumb": "media/panorama_BDFDD110_A041_A878_41D7_D2D4692C234E_t.webp"
+    },
+    {
+      "index": 47,
+      "name": "Galeria escolar 03",
+      "group": "escola",
+      "thumb": "media/panorama_BDC34149_A041_A8EB_41CA_3DC3660BE9C5_t.webp"
+    },
+    {
+      "index": 48,
+      "name": "Pátio coberto 01",
+      "group": "escola",
+      "thumb": "media/panorama_BDFDBF94_A041_5879_41A1_60D6DA8E9FC4_t.webp"
+    },
+    {
+      "index": 49,
+      "name": "Pátio coberto 02",
+      "group": "escola",
+      "thumb": "media/panorama_BDFD45F1_A041_6BBB_41E2_5A693B954E83_t.webp"
+    },
+    {
+      "index": 50,
+      "name": "Área externa · Acesso",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFD8C5F_A041_78E8_41DE_EA6C9F7ECB6C_t.webp"
+    },
+    {
+      "index": 51,
+      "name": "Área externa · Complexo esportivo 01",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFD3299_A041_686B_41C0_55C6A60BD0F0_t.webp"
+    },
+    {
+      "index": 52,
+      "name": "Área externa · Complexo esportivo 02",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFD18E6_A041_59D9_41E1_11EB0E49F1F0_t.webp"
+    },
+    {
+      "index": 53,
+      "name": "Parquinho de madeira",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDFCDF9A_A041_5869_41C5_AA6AB48F1833_t.webp"
+    },
+    {
+      "index": 54,
+      "name": "Acesso à quadra",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFB16CC_A046_A9E9_41C4_71BDE38872C3_t.webp"
+    },
+    {
+      "index": 55,
+      "name": "Quadra esportiva 01",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFB3D46_A046_B8D9_41D7_C17FA4798CE6_t.webp"
+    },
+    {
+      "index": 56,
+      "name": "Quadra esportiva 02",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFB53B4_A046_AFB8_41E0_A9820A67D6ED_t.webp"
+    },
+    {
+      "index": 57,
+      "name": "Quadra esportiva 03",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFB6A4D_A046_D8EB_41DF_2C22B2467DF5_t.webp"
+    },
+    {
+      "index": 58,
+      "name": "Estacionamento 01",
+      "group": "entrada",
+      "thumb": "media/panorama_BDFB1091_A046_E87B_41D2_D51DD3265E2D_t.webp"
+    },
+    {
+      "index": 59,
+      "name": "Estacionamento 02",
+      "group": "entrada",
+      "thumb": "media/panorama_BDFB9772_A046_E8B8_41DA_2AA387AB61CB_t.webp"
+    },
+    {
+      "index": 60,
+      "name": "Acesso às quadras de areia",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFBAE33_A046_F8BF_41D0_CD853FE4EA8E_t.webp"
+    },
+    {
+      "index": 61,
+      "name": "Quadra de areia 01",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFB8530_A046_E8B9_41D8_786065725DC1_t.webp"
+    },
+    {
+      "index": 62,
+      "name": "Quadra de areia 02",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFB8C53_A046_D8FF_41C5_87FC64E554D3_t.webp"
+    },
+    {
+      "index": 63,
+      "name": "Quadra de areia 03",
+      "group": "esporte",
+      "thumb": "media/panorama_BDFBB39B_A046_A86F_41A9_152B9ED99CC7_t.webp"
+    },
+    {
+      "index": 64,
+      "name": "Quiosque 01",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC41B33_A046_B8BF_41E3_70171DB23DC4_t.webp"
+    },
+    {
+      "index": 65,
+      "name": "Quiosque 02",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC4423E_A046_A8A9_41E4_1CFF99F5C1C2_t.webp"
+    },
+    {
+      "index": 66,
+      "name": "Quiosque 03",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDFB9420_A047_6859_41D7_7280A9052912_t.webp"
+    },
+    {
+      "index": 67,
+      "name": "Quiosque 04",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC46286_A047_6858_41BF_7BF58B81033D_t.webp"
+    },
+    {
+      "index": 68,
+      "name": "Balanço da árvore 01",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC458D8_A047_59E9_41E1_C9E047B18F3F_t.webp"
+    },
+    {
+      "index": 69,
+      "name": "Jardim externo",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC4502B_A047_A8A8_41E2_EE171C76EC0A_t.webp"
+    },
+    {
+      "index": 70,
+      "name": "Balanço da árvore 02",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC40713_A047_A87F_41C1_32387D684765_t.webp"
+    },
+    {
+      "index": 71,
+      "name": "Redário",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC46584_A047_A859_41CC_040D501D41C9_t.webp"
+    },
+    {
+      "index": 72,
+      "name": "Espaço de areia 01",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC44BEF_A047_DFA8_41D2_1A6574A7FA96_t.webp"
+    },
+    {
+      "index": 73,
+      "name": "Espaço de areia 02",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC5991D_A047_F86B_41D7_6A7C8EE620AA_t.webp"
+    },
+    {
+      "index": 74,
+      "name": "Cozinha experimental",
+      "group": "convivencia",
+      "thumb": "media/panorama_BDC535FB_A047_EBAF_41D4_CC355BC4C3D0_t.webp"
+    }
+  ]
+}

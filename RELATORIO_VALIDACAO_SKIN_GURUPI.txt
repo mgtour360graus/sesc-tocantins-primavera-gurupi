@@ -1,0 +1,55 @@
+RELATÓRIO DE VALIDAÇÃO - SESC PRIMAVERA GURUPI
+Data: 17/09/2026
+
+1. INTEGRIDADE DO 3DVISTA
+[OK] script.js preservado sem alteração.
+[OK] script_general.js preservado sem alteração.
+[OK] script_mobile.js preservado sem alteração.
+[OK] imsmanifest.xml preservado e contendo script_mobile.js.
+[OK] scorm.js e socialThumbnail.jpg preservados.
+[OK] index.htm difere do export nativo somente pela chamada da skin e pela
+     quebra de linha final.
+
+2. MAPEAMENTO
+[OK] 75 cenas no perfil desktop.
+[OK] 75 cenas no perfil mobile.
+[OK] 75 cenas no config.json.
+[OK] Mesma ordem de cenas nos dois perfis e na skin.
+[OK] Nenhuma miniatura ausente.
+
+3. TESTES FUNCIONAIS
+[OK] Tela inicial e botão COMEÇAR A VISITA.
+[OK] Pergunta de áudio nativa do 3DVista.
+[OK] Troca de panorama pelo menu Ambientes.
+[OK] Lista completa das 75 panorâmicas.
+[OK] Mapa em janela ampla com botão de fechar.
+[OK] Redes sociais, site e telefone.
+[OK] Compartilhar, Mapa, Ambientes e Som no menu mobile.
+[OK] Botão VR visível no mobile.
+[OK] Controles desktop, inclusive Tela cheia.
+
+4. TESTES RESPONSIVOS
+[OK] 320 x 568 - celular pequeno: sem rolagem horizontal; cabeçalho, janela
+     de ambientes e menu inferior dentro da largura disponível.
+[OK] 430 x 932 - celular grande / iPhone 14 Pro Max: controles com áreas de
+     toque entre 56 e 101 px; fontes principais de 13 a 16 px.
+[OK] 768 x 1024 - tablet: script_mobile.js carregado; sem rolagem horizontal.
+[OK] 1440 x 900 - desktop: script_general.js carregado; sem rolagem horizontal.
+
+5. ARQUIVO MOBILE
+[OK] O novo export inclui script_mobile.js.
+[OK] script.js aponta para script_mobile.js no perfil mobile.
+[OK] O navegador mobile carregou efetivamente script_mobile.js nos testes.
+[OK] O navegador desktop carregou efetivamente script_general.js.
+
+6. COMPATIBILIDADE
+- Navegadores modernos baseados em Chromium: Chrome, Edge e equivalentes.
+- Safari atual no iPhone e iPad.
+- Firefox atual.
+- O Internet Explorer não é suportado pelo player 3DVista atual nem pelos
+  recursos web modernos usados no tour.
+
+7. RESULTADO
+Export apto para empacotamento, publicação no GitHub Pages e conferência
+final no endereço público.
+

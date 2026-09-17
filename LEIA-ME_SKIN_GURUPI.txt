@@ -1,0 +1,48 @@
+SESC PRIMAVERA GURUPI - TOUR 360° COM SKIN INJETADA
+Versão da skin: 4.3.1-primavera-gurupi
+Data da finalização: 17/09/2026
+
+ENDEREÇO DE PUBLICAÇÃO
+https://mgtour360graus.github.io/sesc-tocantins-primavera-gurupi/
+
+ESTRUTURA NATIVA DO 3DVISTA
+- script.js seleciona automaticamente o perfil adequado.
+- script_general.js atende computadores e navegadores de desktop.
+- script_mobile.js atende celulares e tablets.
+- lib, locale, media, misc, scorm.js e imsmanifest.xml permanecem nativos.
+- A skin não substitui nem edita o player, os panoramas ou os hotspots do 3DVista.
+
+INJEÇÃO DA SKIN
+O arquivo index.htm possui somente a inclusão abaixo, antes do fechamento do body:
+
+<script src="./skin-fecomercio/mg360-fecomercio-motion-skin.bundle.js"
+        data-config-url="./skin-fecomercio/config.json"
+        defer></script>
+
+ARQUIVOS DA SKIN
+- skin-fecomercio/mg360-fecomercio-motion-skin.bundle.js
+- skin-fecomercio/config.json
+- skin-fecomercio/assets/mouse-para-desktop.png
+- skin-fecomercio/assets/celular-mobile.png
+- skin-fecomercio/assets/sesc-1x1-colorido.png
+- skin-fecomercio/assets/vr-oculos-modelo.png
+
+MAPEAMENTO DE GURUPI
+- 75 panorâmicas.
+- 5 grupos: Conheça a Unidade, Entrada & Atendimento, Escola & Aprendizagem,
+  Esporte & Lazer e Convivência & Apoio.
+- Os índices e a ordem das cenas são idênticos em script_general.js,
+  script_mobile.js e config.json.
+
+ATENÇÃO AO REPUBLICAR PELO 3DVISTA
+Uma nova publicação do 3DVista pode substituir index.htm. Nessa situação:
+1. Preserve integralmente todos os novos arquivos gerados pelo 3DVista.
+2. Confirme a presença de script_mobile.js quando o projeto tiver skin mobile nativa.
+3. Recoloque somente a chamada da skin mostrada acima no novo index.htm.
+4. Não copie um index.htm antigo sobre a nova publicação.
+5. Teste desktop, celular e tablet antes de enviar ao cliente.
+
+PONTO DE RESTAURAÇÃO
+O export mobile original, anterior à injeção, foi preservado na pasta irmã:
+ROLLBACK_EXPORT_MOBILE_ANTES_SKIN_2026-09-17
+
