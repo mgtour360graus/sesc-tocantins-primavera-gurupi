@@ -53,3 +53,14 @@ Data: 17/09/2026
 Export apto para empacotamento, publicação no GitHub Pages e conferência
 final no endereço público.
 
+8. REVALIDAÇÃO DO NOVO EXPORT — 21/09/2026
+[OK] Republicação nativa do 3DVista identificada e preservada.
+[OK] Novo conteúdo das panorâmicas, incluindo o tampão de nadir, preservado.
+[OK] Alteração nativa da primeira thumbnail preservada.
+[OK] Skin 4.3.1 reinjetada uma única vez no novo index.htm.
+[OK] Nenhum arquivo nativo foi modificado durante a reinjeção.
+[OK] 75 cenas e 5 grupos continuam vinculados; nenhuma thumbnail ausente.
+[OK] 320 x 568: script_mobile.js, sem rolagem horizontal ou botão fora da tela.
+[OK] 768 x 1024: script_mobile.js, sem rolagem horizontal.
+[OK] 1440 x 900: script_general.js, sem rolagem horizontal.
+[OK] Janela mobile confirma "VER TODAS AS 75 PANORÂMICAS".

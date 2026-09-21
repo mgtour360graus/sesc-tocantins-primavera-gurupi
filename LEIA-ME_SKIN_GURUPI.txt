@@ -46,3 +46,11 @@ PONTO DE RESTAURAÇÃO
 O export mobile original, anterior à injeção, foi preservado na pasta irmã:
 ROLLBACK_EXPORT_MOBILE_ANTES_SKIN_2026-09-17
 
+ATUALIZAÇÃO NATIVA DO 3DVISTA — 21/09/2026
+- O projeto foi republicado no 3DVista com a remoção do ícone 360 da primeira
+  thumbnail e com o tampão de nadir aplicado às panorâmicas.
+- Os arquivos nativos atualizados foram mantidos integralmente.
+- A skin aprovada não foi alterada; somente o carregador acima foi recolocado
+  no novo index.htm.
+- O ponto de restauração desta republicação está na pasta irmã:
+  ROLLBACK_EXPORT_3DVISTA_ANTES_REINJECAO_2026-09-21
